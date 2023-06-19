@@ -49,11 +49,11 @@
                 </div>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-primary display-4" href="#content4-1s">About Metanail Serum Pro</a></li>
-                    <li class="nav-item"><a class="nav-link link text-primary display-4" href="#content4-1x">How It Works?</a></li>
-					<li class="nav-item"><a class="nav-link link text-primary display-4" href="#content4-1y">Pricings</a></li>
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-primary display-7" href="#content4-1s">About Metanail Serum Pro</a></li>
+                    <li class="nav-item"><a class="nav-link link text-primary display-7" href="#content4-1x">How It Works?</a></li>
+					<li class="nav-item"><a class="nav-link link text-primary display-7" href="#content4-1y">Pricings</a></li>
 				</ul>
-                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-warning display-4" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank">Order Now</a></div>
+                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-warning display-7" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank">Order Now</a></div>
             </div>
         </div>
     </nav>
@@ -66,9 +66,10 @@
             </div>
             <div class="col-12 col-md">
                 <div class="text-wrapper text-center">
-                    <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Metanail Serum Pro</strong><br></h1>
-                    <p class="mbr-text mbr-fonts-style display-7"><strong>Metanail Serum Pro</strong> is a revolutionary <strong>20-in-1 nail and feet-improving formula</strong> that offers exceptional benefits to users. The product is designed to provide comprehensive support to healthy nails and feet, and it is a top choice for individuals dealing with toenail fungus and brittle nails.<br><br>This advanced serum contains <strong>100% natural ingredients </strong>that have been clinically proven to be highly effective.<br><br><strong><u>Try Metanail Serum Pro For Over 80% OFF Today!</u><br></strong></p>
-                    <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-5" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank"><span class="mobi-mbri mobi-mbri-arrow-next mbr-iconfont mbr-iconfont-btn"></span>Get Your 80% Discount Here</a> <a class="btn btn-white display-5" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank"><span class="mobi-mbri mobi-mbri-arrow-next mbr-iconfont mbr-iconfont-btn"></span>Visit Official Site</a></div>
+                    <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Unlock the Power of Perfect Nails with <span style="color:#ff0000; font-weight:bold;">Metanail Serum Pro</span>: "Your Ultimate Nail Transformation Solution!"</strong><br></h1>
+                    <p class="mbr-text mbr-fonts-style display-7"><strong>Metanail Serum Pro</strong> is a revolutionary 20-in-1 "nail and feet-improving formula" designed to help you <strong>achieve stronger, faster-growing, and healthier nails with a smoother texture and intense hydration</strong>. It's a comprehensive solution for transforming your nails and achieving the beautiful and vibrant look you desire.
+					<br><br><strong><u>Try Metanail Serum Pro Today and Unleash the Beauty of Your Nailssss.</u><br></strong></p>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-7" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank"><span class="mobi-mbri mobi-mbri-arrow-next mbr-iconfont mbr-iconfont-btn"></span>Get Your 80% Discount Here</a> <a class="btn btn-white display-7" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank"><span class="mobi-mbri mobi-mbri-arrow-next mbr-iconfont mbr-iconfont-btn"></span>Visit Official Site</a></div>
                 </div>
             </div>
         </div>
@@ -94,7 +95,7 @@
                         <img src="assets/images/made-in-usa-badge.png" alt="Made In USA">
                     </div>
                     <div class="content-wrap">
-                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5"><strong>Made In USA</strong></h5>
+                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-7"><strong>Made In USA</strong></h5>
                         
                         <p class="card-text mbr-fonts-style align-center display-7">
                             Our Metanail Serum Pro health supplement is proudly made in the United States of America.
@@ -108,7 +109,7 @@
                         <img src="assets/images/gmp-certified-badge.png" alt="GMP Certified">
                     </div>
                     <div class="content-wrap">
-                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5"><strong>GMP Certified</strong></h5>
+                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-7"><strong>GMP Certified</strong></h5>
                         
                         <p class="card-text mbr-fonts-style align-center display-7">
                             This product has been certified under Good Manufacturing Practice standards.
@@ -122,7 +123,7 @@
                         <img src="assets/images/fda-approved.png" alt="FDA Approved">
                     </div>
                     <div class="content-wrap">
-                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5"><strong>FDA Approved</strong></h5>
+                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-7"><strong>FDA Approved</strong></h5>
                         <p class="card-text mbr-fonts-style align-center display-7">
                             Metanail Serum Pro is formulated in a facility registered with FDA &amp; follows all FDA regulations.
                         </p>
@@ -135,7 +136,7 @@
                         <img src="assets/images/all-natural-badge.png" alt="100% Natural">
                     </div>
                     <div class="content-wrap">
-                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5"><strong>100% Natural</strong></h5>
+                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-7"><strong>100% Natural</strong></h5>
                         <p class="card-text mbr-fonts-style align-center display-7">
                             We are proud to offer Metanail Serum Pro, made with all-natural, non-GMO and gluten-free ingredients.
                         </p>
@@ -164,11 +165,11 @@
                         <img src="assets/images/user1-730x383.png" alt="Rachel M's Testimonials">
                     </div>
                     <div class="content-wrap">
-                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5"><strong>Rachel M</strong></h5>
+                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-7"><strong>Rachel M</strong></h5>
                         <p class="card-text mbr-fonts-style align-center display-7" style="font-size:28px; color:#00b5d9"><strong>"Just incredible!"</strong></p>
                         <p class=""><img src="./assets/images/stars-3-400x60.png" alt="Star Rating"></p>
                         <p class="card-text mbr-fonts-style align-center display-7" style="font-size:21px"><strong>Verified Purchase&nbsp;</strong>✅</p>
-						<p class="card-text mbr-fonts-style align-center display-4">
+						<p class="card-text mbr-fonts-style align-center display-7">
                             “Metanail Serum Pro is absolutely like nothing I’ve ever tried! The results were more than surprising - my nails have never looked better! And it’s super affordable.”
                         </p>
                     </div>
@@ -180,7 +181,7 @@
                         <img src="assets/images/user2-730x383.png" alt="Clemence S's Testimonials">
                     </div>
                     <div class="content-wrap">
-                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5"><strong>Clemence S</strong></h5>
+                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-7"><strong>Clemence S</strong></h5>
                         <p class="card-text mbr-fonts-style align-center display-7" style="font-size:28px; color:#00b5d9"><strong>"My nails and feet look great!"</strong></p>
                         <p class=""><img src="./assets/images/stars-3-400x60.png" alt="Star Rating"></p>
                         <p class="card-text mbr-fonts-style align-center display-7" style="font-size:21px"><strong>Verified Purchase&nbsp;</strong>✅</p>
@@ -196,7 +197,7 @@
                         <img src="assets/images/user3-730x383.png" alt="Adam R's Testimonials">
                     </div>
                     <div class="content-wrap">
-                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5"><strong>Adam R</strong></h5>
+                        <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-7"><strong>Adam R</strong></h5>
                         <p class="card-text mbr-fonts-style align-center display-7" style="font-size:28px; color:#00b5d9"><strong>"I’m no longer scared of public embarrassment!"</strong></p>
                         <p class=""><img src="./assets/images/stars-3-400x60.png" alt="Star Rating"></p>
                         <p class="card-text mbr-fonts-style align-center display-7" style="font-size:21px"><strong>Verified Purchase&nbsp;</strong>✅</p>
@@ -229,14 +230,12 @@ Don’t even think twice about this. Just get it, because when you do, you’ll 
                 <div class="text-wrapper text-center">
                     
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Metanail Serum Pro is a revolutionary 20-in-1 nail and feet-improving formula that offers exceptional benefits to users. The product is designed to provide comprehensive support to healthy nails and feet, and it is a top choice for individuals dealing with toenail fungus and brittle nails.<br><br>This advanced serum contains 100% natural ingredients that have been clinically proven to be highly effective. These natural ingredients work synergistically to provide superior and long-lasting benefits to the nails and feet. The serum is easy to apply, and users can simply use a cotton swab to apply it to their nails.
-<br>
-<br>One of the key advantages of Metanail Serum Pro is that it is developed in an FDA-approved facility that follows good manufacturing practices. This ensures that the product is safe, reliable, and of the highest quality. Customers who have used this product have reported being satisfied with the results they have experienced.
-<br>
-<br>The benefits of Metanail Serum Pro go beyond improving the appearance of nails and feet. It also helps to strengthen, nourish, and protect them from damage. With regular use, users can expect to see significant improvements in the health and appearance of their nails and feet.
-<br>
-<br></p>
-                    <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-5" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank">Shop Now</a></div>
+						Metanail Serum Pro is a revolutionary nail care product designed to transform the health and appearance of your nails. It is a specially formulated serum that provides targeted nourishment and enhancement for your nails, helping you achieve stronger, healthier, and more beautiful nails.<br><br>
+						Metanail Serum Pro is created with a blend of potent ingredients carefully selected to address common nail concerns such as weakness, brittleness, slow growth, rough texture, and lackluster appearance. By delivering essential nutrients, hydration, and strengthening properties, this serum works to revitalize your nails from the inside out.<br><br>
+						This advanced formula of Metanail Serum Pro goes beyond traditional nail treatments. It penetrates deeply into the nail bed, promoting stronger and more resilient nails while also stimulating faster growth. The serum also smooths out ridges and roughness, leaving your nails with a flawless texture. Additionally, Metanail Serum Pro provides intense hydration to combat dryness and prevent breakage, resulting in nails that are not only healthy but also visibly vibrant and beautiful.<br><br>
+						By incorporating Metanail Serum Pro into your nail care routine, you can unlock the true potential of your nails and enjoy the confidence that comes with having strong, healthy, and stunning nails. It's time to experience the transformative power of Metanail Serum Pro and elevate your nail game to new heights.
+					</p>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-7" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank">Order Metanail Serum Pro Today and Nail Your Way to Perfection!</a></div>
                 </div>
             </div>
         </div>
@@ -253,19 +252,77 @@ Don’t even think twice about this. Just get it, because when you do, you’ll 
         </div>
     </div>
 </section>
-<section data-bs-version="5.1" class="content4 cid-tFiPaCKONb" id="content4-1u">
-   <div class="container-fluid">
+<<section data-bs-version="5.1" class="features19 cid-tGvde61Csa" id="features20-i">
+    <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="title col-md-12 col-lg-10">
-                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7">
-				MetaNail Serum Pro helps to boost detoxification processes in the body using natural ingredients. It helps to permanently eliminate toenail fungus so that the nails and feet are clearer and healthier. According to MetaNails' designer, dry cuticles are to blame for brittle, cracked nails. The solution strengthens the nail cuticles (mainly responsible for weak nails) and promotes moisturization. <br><br>
-				A variety of polyphenols, antioxidants, and anti-inflammatory ingredients are present in the formula. These encourage cell renewal and improve nail health. The antioxidants help to boost nail growth and prevent infection. They help to get rid of the free radicals and toxins that damage the nails. Besides, it boosts blood circulation. A healthy blood flow promotes healing, nourishes the toenails, and prevents infection.<br><br>
-				T. Rubrum is a powerful fungus and the main cause of toenail fungus. MetaNail Serum Pro selectively targets it and helps to strengthen brittle nails and remove toenail fungus. While infected and damaged nails are responsible for the reduction in blood flow to the feet and toenails, the formula boosts blood flow and enhances vitamin and oxygen absorption. <br><br>
-				Metanail Serum Pro is a unique nail complex that eliminates harmful nail fungi. The formulation of the serum prevents the fungus from spreading from one nail to others. The natural ingredients and nutrients repair damaged and broken nails and rebuild them with healthy and strong nails. The serum enters the affected area and fights against the fungus and bacteria.<br><br>
-				Metanail Serum Pro ingredients such as Gotu Kala,  Witch Hazel, and Aloe Vera contain antioxidant and anti-bacterial properties that eliminate all the toxins in the skin and the cuticles. Vitamins C and E are essential for the production of collagen to give shape, strength, and integrity to nails.<br><br>
-According to the official website, this formulation addresses issues like toenail fungus, brittle nails, and cracked cuticles. The formula works by building a protective layer on the nails to prevent future attacks by fungus and bacteria. Metanail Serum Pro manufacturer recommends using the serum for a few months for a desirable result.
-				</h4>
-			</div>
+            <div class="col-md-12 col-lg-11">
+                <div class="card-wrapper pb-4">
+                    <div class="card-box align-center">
+                        <p class="mbr-text mbr-fonts-style mb-4 display-7">
+							Metanail Serum Pro works through its unique formulation and targeted action to provide comprehensive care for your nails. Here's how it works:
+						</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-10">
+                <div class="item mbr-flex">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">1</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Nourishment and Strengthening:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">Metanail Serum Pro is enriched with a potent blend of ingredients that nourish and strengthen your nails. These ingredients penetrate the nail bed, delivering essential nutrients and vitamins that promote nail health and resilience. As a result, your nails become stronger, less prone to breakage, and more resistant to damage.</h5>
+                    </div>
+                </div>
+                <div class="item mbr-flex">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">2</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Accelerated Nail Growth:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">The formula of Metanail Serum Pro stimulates nail growth, helping your nails grow faster and longer. It activates the growth process by providing the necessary nutrients that support the production of new cells in the nail matrix. This results in visibly longer and more beautiful nails in a shorter period.</h5>
+                    </div>
+                </div>
+                <div class="item mbr-flex">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">3</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Texture Improvement:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">If you have ridges, unevenness, or rough texture on your nails, Metanail Serum Pro comes to the rescue. Its specialized formula smooths out the nail surface, reducing ridges and creating a more even and polished appearance. Your nails will feel smoother and look flawless.</h5>
+                    </div>
+                </div>
+                <div class="item mbr-flex">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">4</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Hydration and Moisture Retention:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">Dry, dehydrated nails are more prone to brittleness and breakage. Metanail Serum Pro deeply hydrates and moisturizes your nails, replenishing essential moisture and preventing them from becoming dry and brittle. The serum helps retain moisture within the nails, keeping them supple, flexible, and less susceptible to damage.</h5>
+                    </div>
+                </div>
+				<div class="item mbr-flex last">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">5</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Overall Nail Health:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">Metanail Serum Pro promotes overall nail health by providing essential nutrients and antioxidants. It helps protect your nails from external factors that can cause damage and deterioration. By improving the overall health and vitality of your nails, the serum enhances their appearance and ensures long-term well-being.</h5>
+                    </div>
+                </div>
+				<div class="col-md-12 col-lg-11">
+                <div class="card-wrapper pb-4">
+                    <div class="card-box align-center">
+                        
+                        <p class="mbr-text mbr-fonts-style mb-4 display-7">
+							By incorporating Metanail Serum Pro into your nail care routine, you can harness its powerful effects to transform your nails, making them stronger, longer, and more beautiful. Experience the comprehensive benefits of Metanail Serum Pro and unlock the true potential of your nails.
+						</p>
+                        
+                    </div>
+                </div>
+            </div>
+            </div>
         </div>
     </div>
 </section>
@@ -274,7 +331,7 @@ According to the official website, this formulation addresses issues like toenai
         <div class="row justify-content-center">
             <div class="title col-md-12 col-lg-10">
                 <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>Limited Time Special Pricing - Act Now!</strong></h3>
-                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-5"><strong>Secure Your Metanail Serum Pro Bottles While Stocks Last</strong></h4>
+                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7"><strong>Secure Your Metanail Serum Pro Bottles While Stocks Last</strong></h4>
                 
             </div>
         </div>
@@ -306,7 +363,8 @@ According to the official website, this formulation addresses issues like toenai
 	<div class="container-fluid">
         <div class="row justify-content-center">
             <div class="title col-md-12 col-lg-10">
-                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7">MetaNail Serum Pro is rich in natural ingredients that improve the appearance of your toenails and feet. Each drop condenses twenty ingredients like vitamins, minerals, herb extracts, and organic and secure serums. Below is the list of these ingredients.:</h4>
+                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7">Metanail Serum Pro contains a carefully selected blend of ingredients, each chosen for its specific benefits in promoting nail health and enhancement. Here are some of the key ingredients found in Metanail Serum Pro:
+				</h4>
             </div>
         </div>
     </div>
@@ -373,12 +431,12 @@ According to the official website, this formulation addresses issues like toenai
             <div class="col-12 col-md">
                 <div class="text-wrapper text-center">
                     <h2 class="mbr-section-title mbr-fonts-style mb-3 display-2"><strong>Your Satisfaction is our #1 priority</strong></h2>
-                    <p class="mbr-text mbr-fonts-style display-7">We are so confident you’ll enjoy life-changing results that we’re prepared to back up the Metanail Serum Pro with a 100% satisfaction guarantee for the next 60 days.<br><br>
-					If you are not absolutely astounded by how much younger and healthier you feel day after day...<br><br>
-					Then we will only be too happy to refund you every cent. No questions asked. It’s time to get in the driver’s seat and be in control of your health again.<br><br>
-					If you are unhappy with Metanail Serum Pro, simply return it within 60 days of receiving it and we’ll give you a full refund	. It’s that simple.
+                    <p class="mbr-text mbr-fonts-style display-7">
+						We are confident in the effectiveness of Metanail Serum Pro, which is why we offer a 60-day money-back guarantee. We want you to be completely satisfied with your purchase and experience the transformative benefits it provides for your nails.<br><br>
+						If, for any reason, you are not fully satisfied with Metanail Serum Pro within 60 days of your purchase, simply contact our customer support team. We will be more than happy to assist you with the return process and provide you with a full refund of your purchase price.<br><br>
+					Your satisfaction is our priority, and we stand behind the quality and results of Metanail Serum Pro. Take advantage of this risk-free opportunity to try the product and witness the remarkable improvements in the health and appearance of your nails. With our 60-day money-back guarantee, you have nothing to lose and everything to gain.<br><br>Try Metanail Serum Pro today and experience the difference it can make for your nails.
 					</p>
-                    <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-7" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank">Get Your Bottle Today</a></div>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-7" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank">Transform Your Nails Today with Metanail Serum Pro!</a></div>
                 </div>
             </div>
         </div>
@@ -412,41 +470,85 @@ Benefits of Metanail Serum Pro are:<br></p>
             <div class="col-12 col-md-10">
                 <div class="item mbr-flex">
                     <div class="icon-box">
-                        <span class="step-number mbr-fonts-style display-5">1</span>
+                        <span class="step-number mbr-fonts-style display-7">1</span>
                     </div>
                     <div class="text-box">
-                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Moisturization of Nail Cuticles</strong></h4>
-                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">Dry cuticles are responsible for brittle nails. The MetaNail serum strengthens them and promotes moisture content. It also helps prevent nail infections.</h5>
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Stronger Nails:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">Metanail Serum Pro strengthens the nails, reducing brittleness and helping to prevent breakage.</h5>
                     </div>
                 </div>
                 <div class="item mbr-flex">
                     <div class="icon-box">
-                        <span class="step-number mbr-fonts-style display-5">2</span>
+                        <span class="step-number mbr-fonts-style display-7">2</span>
                     </div>
                     <div class="text-box">
-                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Better Cellular Growth</strong></h4>
-                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">MetaNail serum is rich in antioxidants, polyphenols, and anti-inflammatory ingredients. As a result, it removes pollutants and promotes cell renewal. The antioxidants help to strengthen the nails and fight against infections.</h5>
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Faster Nail Growth:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">The serum stimulates nail growth, promoting faster and healthier nail development.</h5>
                     </div>
                 </div>
                 <div class="item mbr-flex">
                     <div class="icon-box">
-                        <span class="step-number mbr-fonts-style display-5">3</span>
+                        <span class="step-number mbr-fonts-style display-7">3</span>
                     </div>
                     <div class="text-box">
-                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Healthy Blood Flow</strong></h4>
-                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">Broken nails can impede blood circulation in the feet and toenails. By increasing blood flow, MetaNail Serum Pro improves vitamin and oxygen absorption. In addition, it speeds up healing and guards against fungus infection.</h5>
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Improved Nail Texture:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">Metanail Serum Pro smooths out ridges and imperfections, resulting in a more even and polished nail surface.</h5>
                     </div>
                 </div>
-                <div class="item mbr-flex last">
+				<div class="item mbr-flex">
                     <div class="icon-box">
-                        <span class="step-number mbr-fonts-style display-5">4</span>
+                        <span class="step-number mbr-fonts-style display-7">4</span>
                     </div>
                     <div class="text-box">
-                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>More Collagen Synthesis</strong></h4>
-                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">Vitamins C and E are abundant in the formula. It helps to boost collagen creation. It strengthens, shapes, and enhances nails.</h5>
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Enhanced Nail Health:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">The serum nourishes and revitalizes the nails, promoting overall nail health and vitality.</h5>
                     </div>
                 </div>
-
+				<div class="item mbr-flex">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">5</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Intense Hydration:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">Metanail Serum Pro deeply moisturizes the nails, preventing dryness and promoting flexibility.</h5>
+                    </div>
+                </div>
+				<div class="item mbr-flex">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">6</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Nourishment for Nail Bed:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">The serum provides essential nutrients to the nail bed, supporting optimal nail health and growth.</h5>
+                    </div>
+                </div>
+				<div class="item mbr-flex">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">7</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Prevention of Nail Damage:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">Metanail Serum Pro helps protect the nails from damage caused by external factors and daily wear and tear.</h5>
+                    </div>
+                </div>
+				<div class="item mbr-flex">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">8</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Promotes Natural Nail Strength:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">By enhancing the natural strength of the nails, Metanail Serum Pro reduces the risk of nail breakage and damage.</h5>
+                    </div>
+                </div>
+				<div class="item mbr-flex last">
+                    <div class="icon-box">
+                        <span class="step-number mbr-fonts-style display-7">9</span>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Visibly Beautiful Nails:</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-7">With regular use, Metanail Serum Pro improves the appearance of nails, leaving them looking healthy, vibrant, and well-groomed.</h5>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -455,12 +557,19 @@ Benefits of Metanail Serum Pro are:<br></p>
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="counter-container col-md-12 col-lg-10">
-                <h4 class="mbr-section-title mbr-fonts-style mb-4 display-5">Significant Benefits at a Glance</h4>
+                <h4 class="mbr-section-title mbr-fonts-style mb-4 display-7">Significant Features at a Glance:</h4>
                 <div class="mbr-text mbr-fonts-style display-7">
                     <ul>
-                        <li><strong>The 20-in-1 nail fungi relief solution contains vital ingredients for better nail and foot health.&nbsp;</strong></li><li><span style="font-size: 1.2rem;">It ensures outstanding and long-lasting benefits.</span></li><li><strong>The product helps to enhance nail texture and appearance.</strong></li><li>MetaNail Serum Pro is pure, organic, and effective.
-</li><li><strong>It is completely devoid of chemicals, fillers, and any GMOs.</strong></li><li>It not only strengthens the nails but also prevents breakage.</li><li><strong>It helps you say bye to foot odor, maintains the nail's hydration, and revitalizes the nails.</strong></li><li>It can prevent foot and nail fungus infections.</li><li><strong>There are no side effects.</strong></li><li>A money-back guarantee is available.</li>
-                    </ul>
+                        <li><strong>Advanced Formula: Metanail Serum Pro is formulated with a cutting-edge blend of ingredients to provide targeted care for your nails.</strong></li>
+						<li>Easy Application: The serum comes with a user-friendly applicator, making it convenient and hassle-free to apply onto your nails.</li>
+						<li><strong>Fast Absorption: Metanail Serum Pro is designed to absorb quickly into the nails, allowing the ingredients to penetrate deeply for maximum effectiveness.</strong></li>
+						<li>Non-Greasy Texture: The serum has a non-greasy texture that leaves no residue on the nails, ensuring a comfortable and clean application.</li>
+						<li><strong>Professional Strength: Metanail Serum Pro is developed with a potent formula, intended to deliver professional-level nail care and results.</strong></li>
+						<li>Dermatologist Tested: The serum undergoes dermatological testing to ensure its safety and suitability for use on nails.</li>
+						<li><strong>Suitable for Various Nail Types: Metanail Serum Pro is designed to benefit different nail types, whether weak, brittle, slow-growing, or in need of overall improvement.</strong></li>
+						<li>Multi-Benefit Solution: The serum offers multiple benefits for nail health, including strengthening, hydration, texture improvement, and nourishment.</li>
+						<li><strong>Compact Packaging: Metanail Serum Pro is packaged in a compact container, making it easy to carry and use anytime, anywhere.</strong></li>
+					</ul>
                 </div>
             </div>
         </div>
@@ -483,7 +592,7 @@ Benefits of Metanail Serum Pro are:<br></p>
             </div>
             <div class="col-12 col-md">
                 <div class="text-wrapper">
-                    <h1 class="mbr-section-title mbr-fonts-style mb-3 display-2"><strong>SPECIAL METANAIL OFFER</strong></h1>
+                    <h2 class="mbr-section-title mbr-fonts-style mb-3 display-2"><strong>SPECIAL METANAIL OFFER</strong></h2>
                     <p class="mbr-text mbr-fonts-style display-7">How would you like to support your health and wellbeing and get even more powerful results, not just on the outside, but also from the inside?
 <br>
 <br>Act now and get Metanail Total Cleanse - the fast detox solution for a complete body cleanse with confidence - NOW at a huge discount up to 70%<br><br>BUT WAIT! THERE’S MORE:<br>
@@ -506,8 +615,8 @@ Benefits of Metanail Serum Pro are:<br></p>
                 </div>
                 <div class="col-12 col-lg">
                     <div class="text-wrapper">
-                        <h6 class="card-title mbr-fonts-style display-5"><strong>Supercharge Your Body - RRP <strike>$97</strike> - Yours FREE</strong></h6>
-                        <p class="mbr-text mbr-fonts-style mb-4 display-4">You’ll benefit so much by going through this exclusive guide, which contains the best expert recommendations on topics such as:</p>
+                        <h6 class="card-title mbr-fonts-style display-7"><strong>Supercharge Your Body - RRP <strike>$97</strike> - Yours FREE</strong></h6>
+                        <p class="mbr-text mbr-fonts-style mb-4 display-7">You’ll benefit so much by going through this exclusive guide, which contains the best expert recommendations on topics such as:</p>
                         <ul>
 							<li>How to support a healthy immune system</li>
 							<li>Customized activities that will help you apply the changes right away and start improving your immune system</li>
@@ -531,8 +640,8 @@ Benefits of Metanail Serum Pro are:<br></p>
                 </div>
                 <div class="col-12 col-lg">
                     <div class="text-wrapper">
-                        <h6 class="card-title mbr-fonts-style display-5"><strong>Biohacking Secrets - <strike>$97</strike> - Yours FREE</strong></h6>
-                        <p class="mbr-text mbr-fonts-style mb-4 display-4">How would you like to Hack Your Way To MORE Energy, Maximize Your True Potential, And Unleash The BEST Version Of Yourself?<br><br>
+                        <h6 class="card-title mbr-fonts-style display-7"><strong>Biohacking Secrets - <strike>$97</strike> - Yours FREE</strong></h6>
+                        <p class="mbr-text mbr-fonts-style mb-4 display-7">How would you like to Hack Your Way To MORE Energy, Maximize Your True Potential, And Unleash The BEST Version Of Yourself?<br><br>
 “Biohacking Secrets” is the perfect solution for those who want to ‘hack’ their mind & body with the use of modern technology to improve their quality of life! Biohacking is about optimizing your life & body through the use of biology, research & technology - allowing you to increase your energy, enhance your focus, and boost your performance!</p>
                         
                     </div>
@@ -546,7 +655,7 @@ Benefits of Metanail Serum Pro are:<br></p>
         <div class="row justify-content-center">
             <div class="title col-md-12 col-lg-10">
                 <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>Limited Time Special Pricing - Act Now!</strong></h3>
-                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-5"><strong>Secure Your Metanail Serum Pro Bottles While Stocks Last</strong></h4>
+                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7"><strong>Secure Your Metanail Serum Pro Bottles While Stocks Last</strong></h4>
             </div>
         </div>
     </div>
@@ -702,8 +811,8 @@ So Hurry Up! and Secure your Metanail Serum Pro supplement while Stocks LAST.</l
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="title col-md-12 col-lg-10">
-                <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>Order Your Discounted Bottle</strong></h3>
-                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-5"><strong>Secure Your Reserved Metanail Serum Pro While Stocks Last</strong></h4>
+                <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>Don't Wait Another Day To Transform Your Nails From Dull To Dazzling.</strong></h3>
+                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7"><strong>Grab Your Bottle Now And Experience The Power Of Professional Nail Care.</strong></h4>
                 
             </div>
         </div>
@@ -725,9 +834,9 @@ So Hurry Up! and Secure your Metanail Serum Pro supplement while Stocks LAST.</l
     <div class="align-center container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-10">
-                <p class="mbr-text mbr-fonts-style mbr-white display-5" style="color:#ff0000"><strike>Regular Price: $199/Bottle</strike></p>
-				<h1 class="mbr-section-title mbr-fonts-style mbr-white mb-3 display-2"><strong>Today's Price: $59/Bottle</strong></h1>
-                <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-2" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank">Get Your 80% Discount Now&nbsp;</a></div>
+                <p class="mbr-text mbr-fonts-style mbr-white display-7" style="color:#ff0000"><strike>Regular Price: $199/Bottle</strike></p>
+				<h2 class="mbr-section-title mbr-fonts-style mbr-white mb-3 display-2"><strong>Today's Price: $59/Bottle</strong></h2>
+                <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-2" href="https://0a6ac2zdyxax9mf9pmhasf-t97.hop.clickbank.net/?tid=org" target="_blank">Order Metanail Serum Pro Today And Nail Your Way To Perfection!</a></div>
             </div>
         </div>
     </div>
@@ -762,7 +871,7 @@ So Hurry Up! and Secure your Metanail Serum Pro supplement while Stocks LAST.</l
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-12 col-lg-10">
-                <p class="mbr-text mbr-fonts-style display-4">Please note that the information we provide is not intended to replace consultation with a qualified medical professional. We encourage you to inform your physician of changes you make to your lifestyle and discuss these with him or her. For questions or concerns about any medical conditions you may have, please contact your doctor.<br><br>
+                <p class="mbr-text mbr-fonts-style display-7">Please note that the information we provide is not intended to replace consultation with a qualified medical professional. We encourage you to inform your physician of changes you make to your lifestyle and discuss these with him or her. For questions or concerns about any medical conditions you may have, please contact your doctor.<br><br>
 				Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.<br><br>
 				The website’s content and the product for sale is based upon the author’s opinion and is provided solely on an “AS IS” and “AS AVAILABLE” basis. You should do your own research and confirm the information with other sources when searching for information regarding health issues and always review the information carefully with your professional health care provider before using any of the protocols presented on this website and/or in the product sold here.<br><br>
 				ClickBank is the retailer of products on this site. CLICKBANK® is a registered trademark of Click Sales, Inc., a Delaware corporation located at 1444 South Entertainment Ave, Suite 410, Boise, Idaho, 83709, USA and used by permission. ClickBank’s role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products. *For international shipping (outside of the United States), shipping fees will apply.
