@@ -51,7 +51,7 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.68rem;
+    font-size: 3.67rem;
   }
 }
 @media (max-width: 768px) {
